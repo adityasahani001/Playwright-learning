@@ -308,6 +308,7 @@ Playwright is also available for [Python](https://playwright.dev/python/docs/int
 
 ## Resources
 
+
 * [Documentation](https://playwright.dev)
 * [API reference](https://playwright.dev/docs/api/class-playwright)
 * [MCP server](https://github.com/microsoft/playwright-mcp)
