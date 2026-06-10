@@ -86,6 +86,7 @@ await page.context().storageState({ path: 'auth.json' });
 test.use({ storageState: 'auth.json' });
 ```
 
+
 **Tracing.** Capture execution traces, screenshots, and videos on failure. Inspect every action, DOM snapshot, network request, and console message in the [Trace Viewer](https://playwright.dev/docs/trace-viewer):
 
 ```TypeScript
