@@ -21,7 +21,6 @@ Choose the path that fits your workflow:
 
 ---
 
-
 ## Playwright Test
 
 Playwright Test is a full-featured test runner built for end-to-end testing. It runs tests across Chromium, Firefox, and WebKit with full browser isolation, auto-waiting, and web-first assertions.
